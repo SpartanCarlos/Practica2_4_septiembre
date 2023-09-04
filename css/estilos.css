@@ -1,0 +1,9 @@
+
+h1{
+    border: 10px dotted gold;
+    border-radius: 50px ;
+    background-color: blue;
+    text-align: center; /* Centrar el titulo  */
+    box-shadow: 5px 5px gray; /* Sombras */
+    font-size: 500px ;
+}
